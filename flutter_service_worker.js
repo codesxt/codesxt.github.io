@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "dcfec6a6f98ecc94209a407c0d0a4146",
+  "main.dart.js": "39c32a8c4187e058f49f35377d7b84bb",
 "assets/assets/images/tinvito-logo-02.png": "d0b0db8c2e0f04aa3d894ef8a43072b1",
 "assets/assets/images/tinvito-logo-01.png": "0910fac3e3d8b41046c5207c84005952",
 "assets/assets/images/tinvito-logo-03.png": "f3bdaf3e7276c82580b19617a6a69145",
@@ -13,11 +13,11 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "4b6a9b7c20913279a3ad3dd9c96e155b",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "00bb2b684be61e89d1bc7d75dee30b58",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dffd9504fcb1894620fa41c700172994",
-"assets/NOTICES": "7997e1e1cfbaffc7105eb76a7cb04e92",
+"assets/NOTICES": "f5e0b4fdb797ee8c4c2d21eddbcd7160",
 "assets/FontManifest.json": "3ddd9b2ab1c2ae162d46e3cc7b78ba88",
-"index.html": "e2e0435dcda29db5d4b48015e201ffcc",
-"/": "e2e0435dcda29db5d4b48015e201ffcc",
-"version.json": "867bf3d59462bf55f03a37b12b207f6a",
+"index.html": "ae2e9fa07e085f257fa30706483f340b",
+"/": "ae2e9fa07e085f257fa30706483f340b",
+"version.json": "8c27e8ff1bba38fc6844807979d88a10",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
